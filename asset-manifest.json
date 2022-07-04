@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/ics4u-intro-05-typescript/static/js/main.27cedada.js",
+    "service-worker.js": "/ics4u-intro-05-typescript/service-worker.js",
+    "static/media/logo.svg": "/ics4u-intro-05-typescript/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/ics4u-intro-05-typescript/index.html",
+    "main.27cedada.js.map": "/ics4u-intro-05-typescript/static/js/main.27cedada.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.27cedada.js"
+  ]
+}
