@@ -1,9 +1,6 @@
 import React from "react"
 import logo from "./logo.svg"
 
-/**
- * Main App function.
- */
 function App() {
   return (
     <div className="App">
