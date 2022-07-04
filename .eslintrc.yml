@@ -32,22 +32,18 @@ parserOptions:
 ###########
 # Extends #
 ###########
-extends:
-  - "prettier"
 
 ###########
 # Plugins #
 ###########
 plugins:
   - "@typescript-eslint"
-  - "prettier"
 
 #########
 # Rules #
 #########
 rules:
   {
-    "prettier/prettier": "error",
     "require-jsdoc":
       [
         "error",
