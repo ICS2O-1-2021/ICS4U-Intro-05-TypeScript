@@ -1,6 +1,9 @@
 import React from "react"
 import logo from "./logo.svg"
 
+/**
+ * App main entry point.
+ */
 function App() {
   return (
     <div className="App">
